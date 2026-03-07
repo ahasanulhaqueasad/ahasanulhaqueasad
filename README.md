@@ -74,13 +74,14 @@ I'm always open to collaborating on **Frontend Projects** and building amazing w
 
 ---
 
+## 👨‍💻 Visitor Counter
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahasanulhaqueasad&theme=dracula" alt="Profile Summary"/>
+</p>
+
+
 ## 🙏 Career Dua / Prayer
 
 > “O Allah, guide me to knowledge that benefits me, give me success in my career, make my work easy, and help me use my skills to benefit others. Grant me sincerity in learning and working, and open doors of opportunities that lead me to growth, success, and halal income. Ameen.”  
 
 ---
-
-## 👨‍💻 Visitor Counter
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahasanulhaqueasad&theme=dracula" alt="Profile Summary"/>
-</p>
